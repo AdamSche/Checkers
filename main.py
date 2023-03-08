@@ -67,7 +67,7 @@ def main():
                     # If the user has already selected a pawn, try to move it to the selected square
                     dest_row, dest_col = selected_pawn
                     move_successful = make_move(checkerboard, player_turn, dest_row, dest_col, row, col)
-                
+
 
 
 
